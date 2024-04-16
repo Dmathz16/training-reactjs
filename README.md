@@ -1,1 +1,3 @@
-# training-reactjs
+# Simple ReactJs Application
+
+Do this after practicing python...
